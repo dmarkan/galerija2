@@ -1,0 +1,31 @@
+.border {
+    width: 500px;
+    height: 700px;
+    border: solid 3px gray;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-top: 2%;
+    background-color: black;
+}
+
+#current {
+    width: 485px;
+    height: 350px;
+    border: solid 2px gray;
+    border-radius: 10px;
+    margin:6px;
+    cursor: pointer;
+}
+
+.thumb {
+    width: 150px;
+    height: 150px;
+    border: solid 1px gray;
+    border-radius: 10px;
+    margin:6px;
+    cursor: pointer;
+}
+
+.thumb:hover {
+    opacity: 0.7;
+}
